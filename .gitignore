@@ -1,0 +1,6 @@
+**/.terraform
+
+.terraform
+*.tfstate*
+.terraform.lock.hcl
+jupyter-k8s.zip
